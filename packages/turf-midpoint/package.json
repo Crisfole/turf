@@ -29,7 +29,8 @@
     "./package.json": "./package.json",
     ".": {
       "import": "./dist/es/index.js",
-      "require": "./dist/js/index.js"
+      "require": "./dist/js/index.js",
+      "types": "index.d.ts"
     }
   },
   "types": "index.d.ts",
